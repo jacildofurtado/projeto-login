@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/*Minha paleta de cores definidas em variáveis com números de 0 a 2, ainda sera usado a cor branca*/
+
+:root {
+    --cor0: #160E23;
+    --cor1: #534C5C;
+    --cor2: #574D56;
+}
