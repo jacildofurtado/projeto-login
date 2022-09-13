@@ -62,9 +62,7 @@ section#login > div#formulario > h1 {
 
 section#login > div#formulario > p {
     font-size: 0.8em;
-    text-align: justify;
 }
-
 
 form > div#dados {
     display: block;
@@ -129,6 +127,7 @@ form > a.botao {
 }
 
 form > a.botao > span {
+    color: var(--cor0);
     font-size: 0.8em;
 }
 
